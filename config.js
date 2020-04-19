@@ -1,33 +1,33 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://freelancer-china.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: '远程工作',
+  subtitle: ' 服务中国的远程工作者 -- 面向未来的工作形式',
+  copyright: '© freelancer-china All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 8,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: ' 列表',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About us',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact us',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Freelancer-China',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '服务中国远程工作者，自由工作者',
     contacts: {
       email: '',
       facebook: '#',
